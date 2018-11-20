@@ -1,0 +1,1 @@
+powershell  -nop -Exec Bypass -Command Start-Process calc.exe
